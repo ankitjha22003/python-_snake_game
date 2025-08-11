@@ -4,7 +4,7 @@ import random
 # hm pygame ko intialize krwa lenge
 pygame.init()
 
-black = (0,0,0)
+black = (0,0,0) #rgb me color de denge 
 white = (255,255,255)
 green = (41,240,26)
 red = (201, 18, 18)
