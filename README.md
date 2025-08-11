@@ -22,4 +22,4 @@ This is a simple recreation of the popular Snake Game where:
 
 ---
 
-## 📂 Project Structure
+
