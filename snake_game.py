@@ -23,7 +23,7 @@ snake_speed = 15
 
 font_style = pygame.font.SysFont("calibri",25)
 score_font = pygame.font.SysFont("comicsans",34)
-# print(pygame.font.get_fonts())
+# print(pygame.font.get_fonts()) # isme se koi ek font hm choose kr lenge 
 
 def my_score(score):
     value = score_font.render("Score: "+str(score),True,yellow)
